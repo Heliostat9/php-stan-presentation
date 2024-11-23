@@ -1,0 +1,17 @@
+{
+    "name": "heliostat/stat-analys",
+    "autoload": {
+        "psr-4": {
+            "Heliostat\\StatAnalys\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Heliostat9",
+            "email": "heliostat@inbox.ru"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^2.0"
+    }
+}
